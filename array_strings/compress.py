@@ -8,7 +8,7 @@ character. Single character occurrences should not be changed.
 
 Solution:
 
-    Use two pointers. Po
+    Use two pointers.
 """
 
 def compress(s):
